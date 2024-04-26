@@ -1,4 +1,5 @@
 OA_Control
+
 OA_Control is a Python library designed specifically for obstacle avoidance in the ePuck 2 robotic platform. It provides a set of functions to enable obstacle avoidance in the ePuck 2.
 
 OA_Execution
