@@ -12,7 +12,7 @@ The approach to obstacle avoidance involves sensor-based obstacle detection, fol
 
 A Mealy finite state machine continuously transitions between autonomous and user control, depending on obstacle presence. To enhance the user experience during autonomous control, the E-Puck 2's LEDs are purple, and the controller vibrates.
 
-## For Fun Robot Videos and Testing Processes, Check out the [Videos Section](https://abdn.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224afc57f4-35f8-4bf0-b1cb-b11700c30288%22) 📹
+## For Fun Robot Videos and the Testing Process, Check out the [Videos](https://abdn.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224afc57f4-35f8-4bf0-b1cb-b11700c30288%22) 📹
 
 ## OA_Control 🎛️
 
