@@ -1,7 +1,8 @@
 
 # 🤖 Welcome to the Project! 
 
-This project aims to develop a robust system for mobile-wheeled cobots to navigate unknown obstacle-filled environments.
+This project aims to develop a robust system for human-controlled mobile-wheeled robots to navigate unknown obstacle-filled environments. 
+To navigate an obstacle-filled environment, obstacle avoidance is critical to ensure safety.
 The project uses the E-Puck 2 robot, a PS4 controller and a wooden maze with wooden obstacles.
 
 ## Approach 🛠️
