@@ -1,8 +1,8 @@
 
-# 🤖 Welcome to the Project! 🚀
+# 🤖 Welcome to the Project! 
 
-In this project, we aim to develop a robust system for mobile-wheeled cobots to navigate unknown obstacle-filled environments.
-The project uses the EPUCK-2 robot, a PS4 controller and a wooden maze with wooden obstacles.
+This project aims to develop a robust system for mobile-wheeled cobots to navigate unknown obstacle-filled environments.
+The project uses the E-Puck 2 robot, a PS4 controller and a wooden maze with wooden obstacles.
 
 ## Approach 🛠️
 
@@ -16,21 +16,21 @@ A Mealy finite state machine continuously transitions between autonomous and use
 
 ## OA_Control 🎛️
 
-**OA_Control** is a Python library specifically designed for obstacle avoidance in the ePuck 2 robotic platform. It provides a comprehensive set of functions to enable obstacle avoidance in the ePuck 2.
+**OA_Control** is a Python library designed for obstacle avoidance in the ePuck 2 robotic platform. It provides a comprehensive set of functions to enable obstacle avoidance in the E-Puck 2.
 
 ## OA_Execution 🚀
 
-**OA_Execution** is the main script responsible for executing the obstacle avoidance program on the ePuck 2 platform. It facilitates the interaction between the robot's sensors, the OA_Control library, and the ePuck 2 robotic system.
+**OA_Execution** is the main script executing the obstacle avoidance program on the ePuck 2 platform. It facilitates the interaction between the robot's sensors, the OA_Control library, and the E-Puck 2 robotic system.
 
 ## Features ✨
 
-- Provides functions for obstacle detection using sensor data from the ePuck 2.
-- Implements algorithms for path planning and navigation around obstacles, optimized for the ePuck 2 platform.
+- Provides functions for obstacle detection using sensor data from the E-Puck 2.
+- Implements algorithms for path planning and navigation around obstacles optimized for the E-Puck 2 platform.
 - Offers customizable parameters to adjust the maximum linear and angular velocity.
 
 ## Requirements 📋
 
-### Libraries:
+### Libraries 📚 :
 - serial
 - time
 - struct
