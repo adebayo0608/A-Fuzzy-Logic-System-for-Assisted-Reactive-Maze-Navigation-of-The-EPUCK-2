@@ -5,7 +5,7 @@ This project aims to develop a robust system for human-controlled mobile-wheeled
 To navigate an obstacle-filled environment, obstacle avoidance is critical to ensure safety.
 The project uses the E-Puck 2 robot, a PS4 controller and a wooden maze with wooden obstacles.
 
-## Approach 🛠️
+## Approach 🧠
 
 The approach to obstacle avoidance involves sensor-based obstacle detection, followed by data collection on obstacle distance and position. A fuzzy logic controller then determines the optimal trajectory for obstacle evasion.
 
